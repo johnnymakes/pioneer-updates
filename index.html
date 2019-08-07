@@ -9,19 +9,7 @@ title: Ruby on Rails development
 <html lang="en-GB">
  <body>
  
-    <ul class="portfolio">
-    {% for repo in site.github.public_repositories limit:28 %}
- 
-        {% if repo.fork != true %}
-            <li class="repo">
-               
-                <a href="{{ repo.homepage }}">{{ repo.name }}</a>
-             
-            </li>
-        {% endif %}
- 
-    {% endfor %}
-</ul>
+# Posts
  
 <ul>
     {% for post in site.posts %}
@@ -30,6 +18,8 @@ title: Ruby on Rails development
       </li>
     {% endfor %}
 </ul>
+
+
   
  </body>
 </html>
