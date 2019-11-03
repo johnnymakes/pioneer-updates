@@ -17,9 +17,13 @@
 
 ## Results
 
-* Starting the session was challenging, the lobby needs to work better.  
+* Starting the session was challenging, the lobby needs to work better at collecting and keeping users engaged.  
 
 * Micro-interactions between teams could be a nice way to stoke competition – gives teams better visibility of each other.  
+
+* Users were well connected, but if they weren't, there wasn't much space given to establishing connections and bonds
+
+* "Fighting talk" – how can we spice up the competition
   
 
 ## Learnings
@@ -28,3 +32,6 @@
 
 * It would be a more accurate study if participants didn't know each other – bonds are already formed in this case.
   
+* Intro / ice-breakers may be a good solution for the next round, warming players up to one another
+
+* Real prizes / incentives will help drive more focus competition.
